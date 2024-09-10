@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, I´m Juliana Marenzi👋
+* 👽 I´m a Multimedia Art student at the National University of the Arts in Argentina, with knowledge in full-stack web development.
 <!--
 **julianamarenzi/julianamarenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
